@@ -100,9 +100,9 @@ You need to have the following packages installed:
 
 2. You can install these packages using pip:
 
-  ```
-  pip install tensorflow tensorflow_datasets tensorflowjs numpy pandas matplotlib
-  ```
+    ```
+    pip install tensorflow tensorflow_datasets tensorflowjs numpy pandas matplotlib
+    ```
 
 3. Open the Jupyter notebook
     ```
